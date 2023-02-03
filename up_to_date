@@ -1,0 +1,4 @@
+thes git commands used is
+git add .
+git commit -m 'Hot fix'
+git push
